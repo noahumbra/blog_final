@@ -32,9 +32,9 @@ body:
     id: test
     attributes:
       value: Developers should create technical tasks and add links (below) prior to spring planning.
-  - type: textarea
-    id: technical-tasks
-    attributes:
-      label: Front End
-      description: Developers should create technical tasks and add links (below) prior to spring planning.
-      placeholder: "[]"
+    - type: textarea
+      id: technical-tasks
+      attributes:
+        label: Front End
+        description: Developers should create technical tasks and add links (below) prior to spring planning.
+        placeholder: "[]"
