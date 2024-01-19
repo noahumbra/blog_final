@@ -1,6 +1,6 @@
 name: New user story
 description: Feature request written from the perspective of the end user
-title: "[Story] Start with verb that describes user action (pull from the "I want to" part of the user story)" 
+title: '[Story] Start with verb that describes user action (pull from the "I want to" part of the user story)' 
 labels:
   - story
 projects:
