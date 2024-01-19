@@ -6,7 +6,7 @@ labels:
 projects:
   - "cfpb/21"
 body:
-    - type: textarea
+  - type: textarea
     id: Epic
     attributes:
       label: Epic
