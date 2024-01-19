@@ -1,11 +1,17 @@
 name: New user story
 description: Feature request written from the perspective of the end user
-title: As a [user type], I want to [take some action]
+title: [Story] Start with verb that describes user action (pull from the "I want to" part of the user story) 
 labels:
   - story
 projects:
   - "cfpb/21"
 body:
+  - type: textarea
+    id: Epic
+    attributes:
+      label: Epic
+      description: Epic issue includes overview, complete list of user stories, technical and content requirements, user testing task ideation, and current design mock-ups
+      placeholder: Add link to the parent epic  
   - type: textarea
     id: story
     attributes:
