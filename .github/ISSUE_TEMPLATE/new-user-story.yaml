@@ -27,7 +27,7 @@ body:
   - type: markdown
     id: test
     attributes:
-      value: # Thank you for testing
+      value: **Thank you for testing**
   - type: textarea
     id: technical-tasks
     attributes:
