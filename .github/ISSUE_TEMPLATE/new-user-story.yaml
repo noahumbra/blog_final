@@ -7,12 +7,6 @@ projects:
   - "cfpb/21"
 body:
   - type: textarea
-    id: Epic
-    attributes:
-      label: Epic
-      description: Epic issue includes overview, complete list of user stories, technical and content requirements, user testing task ideation, and current design mock-ups
-      placeholder: Add link to the parent epic  
-  - type: textarea
     id: story
     attributes:
       label: User story
