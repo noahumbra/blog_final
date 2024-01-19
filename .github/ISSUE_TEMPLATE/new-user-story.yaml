@@ -27,10 +27,14 @@ body:
   - type: markdown
     id: test
     attributes:
-      value: "**Thank you for testing**"
+      value: "**Technical tasks**"
+  - type: markdown
+    id: test
+    attributes:
+      value: Developers should create technical tasks and add links (below) prior to spring planning.
   - type: textarea
     id: technical-tasks
     attributes:
-      label: Technical tasks
+      label: Front End
       description: Developers should create technical tasks and add links (below) prior to spring planning.
       placeholder: "[]"
