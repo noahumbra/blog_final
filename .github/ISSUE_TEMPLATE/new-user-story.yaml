@@ -37,4 +37,4 @@ body:
     attributes:
       label: "### Front End"
       description: Developers should create technical tasks and add links (below) prior to spring planning.
-      value: "is" \n "a" > "test"
+      value: "is" \n "a" 
