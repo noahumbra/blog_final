@@ -37,4 +37,4 @@ body:
     attributes:
       label: "### Front End"
       description: Developers should create technical tasks and add links (below) prior to spring planning.
-      placeholder: task 1 &#10 test2
+      value: this | is \n a > test
