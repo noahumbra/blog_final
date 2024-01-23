@@ -11,7 +11,9 @@ body:
     attributes:
       label: Epic
       description: Parent epic issue includes overview, complete list of user stories, technical and content requirements, user testing task ideation, and current design mock-ups
-      placeholder: Add link to the parent epic  
+      value: |
+        Parent epic issue includes overview, complete list of user stories, technical and content requirements, user testing task ideation, and current design mock-ups
+        Add link to the parent epic  
   - type: textarea
     id: story
     attributes:
