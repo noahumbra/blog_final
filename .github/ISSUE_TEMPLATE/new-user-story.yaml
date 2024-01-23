@@ -20,7 +20,7 @@ body:
     attributes:
       label: User story
       description: Feature request written from the perspective of the end user
-      value: As a [user type], I want to [takesome some action], so that [reason for action].
+      value: As a [user type], I want to [take some some action], so that [reason for action].
   - type: textarea
     id: acceptance-criteria
     attributes:
