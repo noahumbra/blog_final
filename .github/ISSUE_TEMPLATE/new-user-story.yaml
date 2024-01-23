@@ -35,6 +35,6 @@ body:
   - type: textarea
     id: technical-tasks
     attributes:
-      label: "### Front End"
+      label: "Front End"
       description: Developers should create technical tasks and add links (below) prior to spring planning.
-      value: is <br> a 
+      value: - [] Task <br> - [ ] Task 
