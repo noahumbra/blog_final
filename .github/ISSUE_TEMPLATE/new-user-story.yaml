@@ -30,7 +30,7 @@ body:
   - type: textarea
     id: technical-tasks
     attributes:
-      label: "Technical tasks"
+      label: Technical tasks
       value: |
         Developers should create technical tasks and add links (below) prior to sprint planning.
         
