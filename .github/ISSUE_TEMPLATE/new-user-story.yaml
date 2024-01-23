@@ -35,10 +35,8 @@ body:
   - type: textarea
     id: technical-tasks
     attributes:
-      label: "Front End2"
+      label: "Technical tasks"
       description: Developers should create technical tasks and add links (below) prior to spring planning.
-      value: |
-        - [ ] Issue has PR attached (if applicable)
-        - [ ] (Sub)tasks are closed
-        - [ ] Acceptance Criteria double-checked and checkboxes marked
-        - [ ] Is it clear how to test the issue in QA?
+      value: Front End|
+        - [ ] Task (link)
+        - [ ] Task (link)
