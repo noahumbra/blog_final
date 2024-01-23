@@ -10,6 +10,7 @@ body:
     id: epic
     attributes:
       label: Epic
+      description: Link to parent epic, represented as GitHub issues.
       value: |
         Parent epic issue includes overview, complete list of user stories, technical and content requirements, user testing task ideation, and current design mock-ups
         
@@ -30,9 +31,8 @@ body:
     id: technical-tasks
     attributes:
       label: "Technical tasks"
-      description: Developers should create technical tasks and add links (below) prior to spring planning.
       value: |
-        Developers should create technical tasks and add links (below) prior to spring planning.
+        Developers should create technical tasks and add links (below) prior to sprint planning.
         
         #### Front end
         - [ ] Task (link)
