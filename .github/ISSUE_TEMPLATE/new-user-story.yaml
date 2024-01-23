@@ -29,7 +29,7 @@ body:
     attributes:
       label: "Technical tasks"
       description: Developers should create technical tasks and add links (below) prior to spring planning.
-      value: |
+      value: Developers should create technical tasks and add links (below) prior to spring planning.|
         #### Front end
         - [ ] Task (link)
         - [ ] Task (link)
