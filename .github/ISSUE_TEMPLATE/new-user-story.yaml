@@ -40,7 +40,7 @@ body:
       value: |
         Front end
         - [ ] Task (link)
-        - [ ] Task (link)
+        - [ ] Task (link)|
         Back end
         - [ ] Task (link)
         - [ ] Task (link)
