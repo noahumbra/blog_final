@@ -37,4 +37,8 @@ body:
     attributes:
       label: "Front End"
       description: Developers should create technical tasks and add links (below) prior to spring planning.
-      value: '- [] Task<br>- [ ] Task' 
+      value: |
+        - [ ] Issue has PR attached (if applicable)
+        - [ ] (Sub)tasks are closed
+        - [ ] Acceptance Criteria double-checked and checkboxes marked
+        - [ ] Is it clear how to test the issue in QA?
