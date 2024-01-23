@@ -37,4 +37,4 @@ body:
     attributes:
       label: "Front End"
       description: Developers should create technical tasks and add links (below) prior to spring planning.
-      value: "- [] Task" <br> "- [ ] Task" 
+      value: '- [] Task' <br> '- [ ] Task' 
