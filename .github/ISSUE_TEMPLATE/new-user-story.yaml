@@ -10,7 +10,7 @@ body:
     id: epic
     attributes:
       label: Epic
-      description: Link to parent epic, represented as GitHub issues.
+      description: Link to parent epic, represented as GitHub issues
       value: |
         Parent epic issue includes overview, complete list of user stories, technical and content requirements, user testing task ideation, and current design mock-ups
         
