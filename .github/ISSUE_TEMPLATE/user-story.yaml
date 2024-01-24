@@ -9,7 +9,7 @@ body:
     attributes:
       description: Link to milestone
       Value: |
-        #### Milestone: [Link to milestone]
+        "#### Milestone: [Link to milestone]"
         
         Add a few sentences to describe the milestone
   - type: textarea
