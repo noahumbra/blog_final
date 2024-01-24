@@ -4,6 +4,9 @@ title: "[EPIC] <Title of Epic>"
 labels: 
   - story
 body:
+  - type: markdown
+    attributes:
+      value: "Add a few sentences to describe the milestone.
   - type: textarea
     id: milestone
     attributes:
