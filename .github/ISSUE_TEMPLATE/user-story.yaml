@@ -6,7 +6,7 @@ labels:
 body:
   - type: markdown
     attributes:
-      value: "Add a few sentences to describe the milestone.
+      value: "Add a few sentences to describe the milestone."
   - type: textarea
     id: milestone
     attributes:
