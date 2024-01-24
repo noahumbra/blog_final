@@ -8,9 +8,7 @@ body:
     id: milestone
     attributes:
       description: Link to milestone
-      Value: |
-        "#### Milestone: [Link to milestone]"
-        
+      value: |
         Add a few sentences to describe the milestone
   - type: textarea
     id: epic
