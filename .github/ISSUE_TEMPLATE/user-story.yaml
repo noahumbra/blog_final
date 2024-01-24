@@ -7,7 +7,7 @@ body:
   - type: textarea
     id: milestone
     attributes:
-      label: Milestone
+      label: ""
       description: Link to milestone
       value: |
         **Milestone:** [link to milestone]
