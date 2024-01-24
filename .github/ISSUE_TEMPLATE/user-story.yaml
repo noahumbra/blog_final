@@ -7,6 +7,7 @@ body:
   - type: textarea
     id: milestone
     attributes:
+      label: 
       description: Link to milestone
       value: |
         Add a few sentences to describe the milestone
