@@ -18,4 +18,7 @@ body:
       label: Epic
       description: High-level overview of the Epic
       placeholder: This is a test
+  - type: markdown
+    attributes: 
+      value: # Epic: Epic name
 
