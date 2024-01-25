@@ -7,7 +7,7 @@ body:
   - type: textarea
     id: milestone
     attributes:
-      label: ""
+      label: Milestone
       description: Link to milestone
       value: |
         **Milestone:** [link to milestone]
@@ -20,5 +20,5 @@ body:
       placeholder: This is a test
   - type: markdown
     attributes: 
-      value: # Epic: Epic name
+      value: Epic: Epic name
 
