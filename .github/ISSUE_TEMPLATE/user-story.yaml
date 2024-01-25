@@ -15,9 +15,21 @@ body:
 
         # Epic: Epic Name
   - type: textarea
-    id: epic
+    id: overview
     attributes:
-      label: Epic
+      label: Overview
       description: High-level overview of the Epic
-      placeholder: This is a test
+      value: |
+        - List item
+        - List item
+  - type: textarea
+    id: tasks
+    attributes:
+      label: Tasks
+      description: High-level overview of the Epic
+      value: |
+        Use the following checklist to ensure each epic is built out properly. If needed, you can add or remove items.
+        - [] Pull together initial list of relevant user stories for this epic
+        - [] Make a list of the content requirements for this epic
+
 
