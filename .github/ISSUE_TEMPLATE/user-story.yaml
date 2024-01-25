@@ -70,4 +70,14 @@ body:
       value: |
         ### Task ideation
         - Add here
-
+  - type: textarea
+    id: mockups
+    attributes:
+      label: Current mock-ups
+      description: High-level overview of the Epic
+      value: |
+        #### Updated: MM/DD/YYYY
+        
+        | Page name | Page name | Page name |
+        |------------|------------|------------|
+        |![Image](Link![Image](Link)|![Image](Link)|
