@@ -29,7 +29,25 @@ body:
       description: High-level overview of the Epic
       value: |
         Use the following checklist to ensure each epic is built out properly. If needed, you can add or remove items.
-        - [] Pull together initial list of relevant user stories for this epic
-        - [] Make a list of the content requirements for this epic
+        - [ ] Pull together initial list of relevant user stories for this epic
+        - [ ] Make a list of the content requirements for this epic
+        - [ ] Make a list of the technical requirements for this epic
+        - [ ] Post current wireframe and mock-upss
+        - [ ] Review wireframes and mock-ups with FEWD, BEWD, Data, SBL Help, Content team members
+        - [ ] Refine user stories to prepare for development phase
+        - [ ] Identify and capture tasks for user testing
+        - [ ] Conduct user testing
+  - type: textarea
+    id: stories
+    attributes:
+      label: User Stories
+      description: High-level overview of the Epic
+      value: |
+        ### MVP (Betal release)
+        - Story (link)
+        - Story (link)
+
+        ### Backlog (post-MVP)
+        - Story (link)
 
 
