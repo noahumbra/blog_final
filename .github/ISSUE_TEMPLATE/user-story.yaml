@@ -80,4 +80,5 @@ body:
         
         | Page name | Page name | Page name |
         |------------|------------|------------|
-        |![Image](Link![Image](Link)|![Image](Link)|
+        |![Image](Link)|![Image](Link)|![Image](Link)|
+
