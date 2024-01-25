@@ -63,7 +63,7 @@ body:
         - Link item
         - Link item
   - type: textarea
-    id: user testing
+    id: user_testing
     attributes:
       label: User testing
       description: High-level overview of the Epic
