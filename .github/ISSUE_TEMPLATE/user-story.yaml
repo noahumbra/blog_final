@@ -49,5 +49,18 @@ body:
 
         ### Backlog (post-MVP)
         - Story (link)
+  - type: textarea
+    id: requirements
+    attributes:
+      label: Requirements
+      description: High-level overview of the Epic
+      value: |
+        ### Technical
+        - List item
+        - List item
+
+        ### Content
+        - Link item
+        - Link item
 
 
