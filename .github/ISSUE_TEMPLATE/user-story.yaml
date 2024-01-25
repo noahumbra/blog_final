@@ -12,13 +12,12 @@ body:
       value: |
         **Milestone:** [link to milestone]
         Add a few sentences to describe the milestone
+
+        # Epic: Epic Name
   - type: textarea
     id: epic
     attributes:
       label: Epic
       description: High-level overview of the Epic
       placeholder: This is a test
-  - type: markdown
-    attributes: 
-      value: "Epic: Epic name"
 
