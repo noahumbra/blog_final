@@ -20,5 +20,5 @@ body:
       placeholder: This is a test
   - type: markdown
     attributes: 
-      value: Epic: Epic name
+      value: "Epic: Epic name"
 
