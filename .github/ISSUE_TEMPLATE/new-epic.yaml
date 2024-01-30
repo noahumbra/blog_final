@@ -1,0 +1,84 @@
+name: Epic duplicate
+description: Represent larger bodies of work that span multiple user stories across multiple sprints. These epics represented as GitHub issues, labeled as epic.
+title: "[EPIC] <Title of Epic>"
+labels: 
+  - story
+body:
+  - type: textarea
+    id: milestone
+    attributes:
+      label: Milestone
+      description: Link to milestone
+      value: |
+        **Milestone:** [link to milestone]
+        Add a few sentences to describe the milestone
+
+        # Epic: Epic Name
+  - type: textarea
+    id: overview
+    attributes:
+      label: Overview
+      description: High-level overview of the Epic
+      value: |
+        - List item
+        - List item
+  - type: textarea
+    id: tasks
+    attributes:
+      label: Tasks
+      description: High-level overview of the Epic
+      value: |
+        Use the following checklist to ensure each epic is built out properly. If needed, you can add or remove items.
+        - [ ] Pull together initial list of relevant user stories for this epic
+        - [ ] Make a list of the content requirements for this epic
+        - [ ] Make a list of the technical requirements for this epic
+        - [ ] Post current wireframe and mock-upss
+        - [ ] Review wireframes and mock-ups with FEWD, BEWD, Data, SBL Help, Content team members
+        - [ ] Refine user stories to prepare for development phase
+        - [ ] Identify and capture tasks for user testing
+        - [ ] Conduct user testing
+  - type: textarea
+    id: stories
+    attributes:
+      label: User Stories
+      description: High-level overview of the Epic
+      value: |
+        ### MVP (Betal release)
+        - Story (link)
+        - Story (link)
+
+        ### Backlog (post-MVP)
+        - Story (link)
+  - type: textarea
+    id: requirements
+    attributes:
+      label: Requirements
+      description: High-level overview of the Epic
+      value: |
+        ### Technical
+        - List item
+        - List item
+
+        ### Content
+        - Link item
+        - Link item
+  - type: textarea
+    id: user_testing
+    attributes:
+      label: User testing
+      description: High-level overview of the Epic
+      value: |
+        ### Task ideation
+        - Add here
+  - type: textarea
+    id: mockups
+    attributes:
+      label: Current mock-ups
+      description: High-level overview of the Epic
+      value: |
+        #### Updated: MM/DD/YYYY
+
+        
+        | Page name | Page name | Page name |
+        |------------|------------|------------|
+        |![Image](Link)|![Image](Link)|![Image](Link)|
