@@ -1,8 +1,8 @@
 ---
-name: 🐞 Bug
+name: Epic
 about: File a bug/issue
-title: '[BUG] <title>'
-labels: Bug, Needs Triage
+title: '[Epic] <title of Epic>'
+labels: epic
 assignees: ''
 
 ---
