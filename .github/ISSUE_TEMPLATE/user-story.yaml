@@ -40,10 +40,9 @@ body:
   - type: textarea
     id: stories
     attributes:
-      label: User stories
+      label: ''
       description: High-level overview of the Epic
       value: |
-        <hr>
         ### MVP (Beta release)
         - Story (link)
         - Story (link)
