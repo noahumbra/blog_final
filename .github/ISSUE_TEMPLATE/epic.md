@@ -1,5 +1,5 @@
 ---
-name: Epic
+name: New Epic
 about: File a bug/issue
 title: '[Epic] <title of Epic>'
 labels: epic
