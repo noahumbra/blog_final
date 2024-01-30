@@ -1,43 +1,85 @@
 name: Epic
-description: Feature request written from the perspective of the end user
-title: '[Story] Start with verb that describes user action (pull from the "I want to" part of the user story)' 
-labels:
+name: Epic
+description: Represent larger bodies of work that span multiple user stories across multiple sprints. These epics represented as GitHub issues, labeled as epic.
+title: "[EPIC] <Title of Epic>"
+labels: 
   - story
-projects:
-  - "cfpb/21"
 body:
   - type: textarea
-    id: epic
+    id: milestone
     attributes:
-      label: Epic
-      description: Link to parent epic, represented as GitHub issues
+      label: Milestone
+      description: Link to milestone
       value: |
-        Epic issue includes overview, complete list of user stories, technical and content requirements, user testing task ideation, and current design mock-ups.
-        
-        Add link to the parent epic  
-  - type: textarea
-    id: story
-    attributes:
-      label: User story
-      description: Feature request written from the perspective of the end user
-      value: As a [user type], I want to [take some some action], so that [reason for action].
-  - type: textarea
-    id: acceptance-criteria
-    attributes:
-      label: Acceptance criteria
-      description: A set of predefined requirements that must be met to mark a user story complete
-      value: Given [some context or conditions], when [the action that is performed], then [the expected observable outcome or behavior].
-  - type: textarea
-    id: technical-tasks
-    attributes:
-      label: Technical tasks
-      value: |
-        Developers should create technical tasks and add links (below) prior to sprint planning.
-        
-        #### Front end
-        - [ ] Task (link)
-        - [ ] Task (link)
+        **Milestone:** [link to milestone]
+        Add a few sentences to describe the milestone
 
-        #### Back end
-        - [ ] Task (link)
-        - [ ] Task (link)
+        # Epic: Epic Name
+  - type: textarea
+    id: overview
+    attributes:
+      label: Overview
+      description: High-level overview of the Epic
+      value: |
+        - List item
+        - List item
+  - type: textarea
+    id: tasks
+    attributes:
+      label: Tasks
+      description: High-level overview of the Epic
+      value: |
+        Use the following checklist to ensure each epic is built out properly. If needed, you can add or remove items.
+        - [ ] Pull together initial list of relevant user stories for this epic
+        - [ ] Make a list of the content requirements for this epic
+        - [ ] Make a list of the technical requirements for this epic
+        - [ ] Post current wireframe and mock-upss
+        - [ ] Review wireframes and mock-ups with FEWD, BEWD, Data, SBL Help, Content team members
+        - [ ] Refine user stories to prepare for development phase
+        - [ ] Identify and capture tasks for user testing
+        - [ ] Conduct user testing
+  - type: textarea
+    id: stories
+    attributes:
+      label: User Stories
+      description: High-level overview of the Epic
+      value: |
+        ### MVP (Betal release)
+        - Story (link)
+        - Story (link)
+
+        ### Backlog (post-MVP)
+        - Story (link)
+  - type: textarea
+    id: requirements
+    attributes:
+      label: Requirements
+      description: High-level overview of the Epic
+      value: |
+        ### Technical
+        - List item
+        - List item
+
+        ### Content
+        - Link item
+        - Link item
+  - type: textarea
+    id: user_testing
+    attributes:
+      label: User testing
+      description: High-level overview of the Epic
+      value: |
+        ### Task ideation
+        - Add here
+  - type: textarea
+    id: mockups
+    attributes:
+      label: Current mock-ups
+      description: High-level overview of the Epic
+      value: |
+        #### Updated: MM/DD/YYYY
+
+        
+        | Page name | Page name | Page name |
+        |------------|------------|------------|
+        |![Image](Link)|![Image](Link)|![Image](Link)|
