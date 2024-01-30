@@ -11,7 +11,7 @@ body:
       description: Link to milestone
       value: |
         **Milestone:** [link to milestone]
-        Add a few sentences to describe the milestone
+        Add a few sentences to describe the milestone.
 
         # Epic: Epic Name
   - type: textarea
@@ -40,10 +40,10 @@ body:
   - type: textarea
     id: stories
     attributes:
-      label: User Stories
+      label: ## User Stories
       description: High-level overview of the Epic
       value: |
-        ### MVP (Betal release)
+        ### MVP (Beta release)
         - Story (link)
         - Story (link)
 
