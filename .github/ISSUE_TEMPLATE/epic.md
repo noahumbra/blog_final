@@ -11,8 +11,10 @@ assignees: ''
 Note: Please search to see if an issue already exists for the bug you encountered.
 -->
 
-### Current Behavior:
+## Overview:
 <!-- A concise description of what you're experiencing. -->
+- List item
+- List item
 
 ### Expected Behavior:
 <!-- A concise description of what you expected to happen. -->
