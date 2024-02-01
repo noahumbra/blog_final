@@ -1,6 +1,6 @@
 ---
 name: New Epic
-about: File a bug/issue
+about: Create an epic
 title: '[Epic] <title of Epic>'
 labels: epic
 assignees: ''
@@ -8,20 +8,20 @@ assignees: ''
 ---
 
 <!--
-Note: Please search to see if an issue already exists for the bug you encountered.
+Note: Please search to see if an epic already exists before creating a new one.
 -->
 
 **Milestone:** [link to milestone]
 Add a few sentences to describe the milestone.
 
-# Epic: Epic Name
+# Epic: Epic name
 
-### Overview:
+### Overview
 <!-- A concise description of what you're experiencing. -->
 - List item
 - List item
 
-## Tasks:
+## Tasks
 <!-- A concise description of what you expected to happen. -->
 Use the following checklist to ensure each epic is built out properly. If needed, you can add or remove items.
 - [ ] Pull together initial list of relevant user stories for this epic
@@ -33,7 +33,7 @@ Use the following checklist to ensure each epic is built out properly. If needed
 - [ ] Identify and capture tasks for user testing
 - [ ] Conduct user testing
 
-## User stories:
+## User stories
 <!--
 Example: steps to reproduce the behavior:
 1. In this environment...
@@ -48,7 +48,7 @@ Example: steps to reproduce the behavior:
 ### Backlog (post-MVP)
 - Story (link)
 
-## Requirements:
+## Requirements
 <!--
 Example:
 - OS: Ubuntu 20.04
@@ -63,7 +63,7 @@ Example:
 - Link item
 - Link item
 
-## User Testing:
+## User testing
 <!--
 Links? References? Anything that will give us more context about the issue that you are encountering!
 -->
