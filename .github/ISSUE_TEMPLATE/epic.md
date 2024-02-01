@@ -11,8 +11,6 @@ assignees: ''
 Note: Please search to see if an issue already exists for the bug you encountered.
 -->
 
-### Milestone
-
 **Milestone:** [link to milestone]
 Add a few sentences to describe the milestone.
 
