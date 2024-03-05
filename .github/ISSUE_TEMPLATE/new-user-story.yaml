@@ -14,7 +14,7 @@ body:
       value: |
         Epic issue includes overview, complete list of user stories, technical and content requirements, user testing task ideation, and current design mock-ups.
         
-        - [Epic: <title of epic>](<link to epic>) 
+        - <link to epic> 
   - type: textarea
     id: story
     attributes:
